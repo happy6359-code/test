@@ -1,9 +1,9 @@
 ---
 name: "\U0001F501 복습 문제 등록"
-about: 다시 풀어야 할 문제를 기록합니다
-title: "[REVIEW] BOJ_문제번호 문제명"
+about: 다시 풀어야 할 문제를 기록합니다.
+title: "[REVIEW] 플랫폼_문제번호"
 labels: review
-assignees: ''
+assignees: wda067
 
 ---
 
