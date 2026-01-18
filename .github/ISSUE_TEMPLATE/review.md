@@ -7,8 +7,8 @@ labels: review
 ---
 
 ### 📌 문제 정보
+<!-- 예: BOJ / 9663 / N-Queen -->
 - 플랫폼 / 번호 / 문제명  
-  - 예: BOJ / 9663 / N-Queen
 - 풀이 날짜: YYYY-MM-DD
 
 ---
